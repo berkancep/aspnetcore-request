@@ -1,0 +1,13 @@
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\bin\Debug\netcoreapp3.1\RequestApplication.DAL.deps.json
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\bin\Debug\netcoreapp3.1\RequestApplication.DAL.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\bin\Debug\netcoreapp3.1\RequestApplication.DAL.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\obj\Debug\netcoreapp3.1\RequestApplication.DAL.csprojAssemblyReference.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\obj\Debug\netcoreapp3.1\RequestApplication.DAL.AssemblyInfoInputs.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\obj\Debug\netcoreapp3.1\RequestApplication.DAL.AssemblyInfo.cs
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\obj\Debug\netcoreapp3.1\RequestApplication.DAL.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\obj\Debug\netcoreapp3.1\RequestApplication.DAL.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\bin\Debug\netcoreapp3.1\RequestApplication.Entitiy.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\bin\Debug\netcoreapp3.1\RequestApplication.Entitiy.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\obj\Debug\netcoreapp3.1\RequestApplication.DAL.csproj.CopyComplete
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\bin\Debug\netcoreapp3.1\RequestApplication.DAL.runtimeconfig.json
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.DAL\bin\Debug\netcoreapp3.1\RequestApplication.DAL.runtimeconfig.dev.json

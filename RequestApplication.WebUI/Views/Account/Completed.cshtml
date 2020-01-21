@@ -1,0 +1,21 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "Completed";
+}
+
+    <div class="alert alert-success" role="alert">
+        <h4 class="alert-heading">Tebrikler!</h4>
+        <p>Üyeliğinizi başarıyla oluşturduğunuz,artık talep oluşturabilirsiniz. Hemen yeni bir talep oluşturmak için bilgileriniz ile giriş yapın. <br />  <a asp-controller="Account" asp-action="Login" class="btn btn-primary btn-lg mt-2">Giriş Yap</a> </p>
+        <hr>
+        <dl class="dl-horizontal m-1 p-1">
+            <dt>Ad Soyad</dt>
+            <dd>@Model.FullName</dd>
+
+            <dt>Eposta</dt>
+            <dd>@Model.Email</dd>
+
+            <dt>Telefon</dt>
+            <dd>@Model.Phone</dd>
+        </dl>
+    </div>  
+

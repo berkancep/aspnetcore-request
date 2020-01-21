@@ -1,0 +1,27 @@
+﻿@model RequestDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+    <div class="card">
+        <div class="card-header">
+            Talep Detayı
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@Model.Title</h5>
+            <dl class="dl-horizontal">
+
+                <dt>Açıklama</dt>
+                <dd>@Model.Description</dd>
+
+                <dt>Cevap</dt>
+                <dd>@Model.Reply</dd>
+
+                <dt>Dosya</dt>
+                <dd>@Model.Document</dd>
+
+            </dl>
+            <a asp-action="List" class="btn btn-primary btn-sm">Geri dön</a>
+        </div>
+    </div>

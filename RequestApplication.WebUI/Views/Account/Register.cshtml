@@ -1,0 +1,74 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+@section scripts
+{
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#phone").mask('(000) 000-0000');
+    })
+</script>
+}
+<div class="container mt-3">
+
+
+    <form asp-action="Register" method="post">
+
+        <div class="row">
+
+            <div class="col-md-6">
+
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="FullName"></label>
+                    <input asp-for="FullName" class="form-control" />
+
+
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="form-control" />
+
+
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Phone"></label>
+                    <input id="phone" asp-for="Phone" class="form-control" />
+
+
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" class="form-control" />
+
+
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="RePassword"></label>
+                    <input asp-for="RePassword" class="form-control" />
+
+
+                </div>
+
+                <div class="form-group">
+
+                    <input type="submit" value="Üye Ol" class="btn btn-primary btn-lg btn-block" />
+                </div>
+            </div>
+
+
+
+
+
+
+        </div>
+    </form>
+</div>

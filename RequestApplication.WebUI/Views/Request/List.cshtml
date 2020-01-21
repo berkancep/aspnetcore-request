@@ -1,0 +1,77 @@
+﻿@model IEnumerable<RequestListViewModel>
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>Taleplerim</h1>
+<a asp-controller="Request" asp-action="Create" class="btn btn-success mb-3">Talep Ekle</a>
+
+
+<div class="row">
+    <div class="col-md-12">
+
+        @if (Model.Count() > 0)
+        {
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Başlık</th>
+                        <th>Talep Tarihi</th>
+                        <th>Değerlendirme Tarihi</th>
+                        <th>Durum</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Title</td>
+                            <td>@item.RequestDate.ToString("dd/MM/yyyy HH:mm")</td>
+                            <td>
+                                @if (item.ReplyDate == null)
+                                {
+                                    <p>Cevaplanmadı</p>
+                                }
+                                else
+                                {
+                                    @Convert.ToDateTime(item.ReplyDate).ToString("dd/MM/yyyy HH:mm")
+                                }
+                            </td>
+                            <td>
+                                @if (item.IsPositive != null)
+                                {
+                                    @if ((bool)item.IsPositive)
+                                    {
+                                        <i class="fas fa-check-circle"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="fas fa-times-circle"></i>
+                                    }
+                                }
+                                else
+                                {
+                                    <p>Beklemede</p>
+                                }
+
+                            </td>
+                            <td>
+                                <a asp-controller="Request" asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Detay</a>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+        else
+        {
+            <div class="alert alert-danger">
+                Henüz eklenmiş talebiniz bulunmamaktadır.
+            </div>
+        }
+
+    </div>
+</div>

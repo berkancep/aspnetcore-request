@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.WebUI\\RequestApplication.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.BLL\\RequestApplication.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.BLL\\RequestApplication.BLL.csproj",
+        "projectName": "RequestApplication.BLL",
+        "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.BLL\\RequestApplication.BLL.csproj",
+        "packagesPath": "C:\\Users\\Berkan Çep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Berkan Çep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\RequestApplication.DAL.csproj": {
+                "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\RequestApplication.DAL.csproj"
+              },
+              "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\RequestApplication.Entitiy.csproj": {
+                "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\RequestApplication.Entitiy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\RequestApplication.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\RequestApplication.DAL.csproj",
+        "projectName": "RequestApplication.DAL",
+        "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\RequestApplication.DAL.csproj",
+        "packagesPath": "C:\\Users\\Berkan Çep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Berkan Çep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\RequestApplication.Entitiy.csproj": {
+                "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\RequestApplication.Entitiy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\RequestApplication.Entitiy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\RequestApplication.Entitiy.csproj",
+        "projectName": "RequestApplication.Entitiy",
+        "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\RequestApplication.Entitiy.csproj",
+        "packagesPath": "C:\\Users\\Berkan Çep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.Entitiy\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Berkan Çep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.WebUI\\RequestApplication.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.WebUI\\RequestApplication.WebUI.csproj",
+        "projectName": "RequestApplication.WebUI",
+        "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.WebUI\\RequestApplication.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Berkan Çep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Berkan Çep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.BLL\\RequestApplication.BLL.csproj": {
+                "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.BLL\\RequestApplication.BLL.csproj"
+              },
+              "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\RequestApplication.DAL.csproj": {
+                "projectPath": "C:\\Users\\Berkan Çep\\Desktop\\Folders\\Works\\Projeler\\Tabim_Core\\RequestApplication\\RequestApplication.DAL\\RequestApplication.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

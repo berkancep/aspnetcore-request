@@ -1,0 +1,13 @@
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\bin\Debug\netcoreapp3.1\RequestApplication.BLL.deps.json
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\bin\Debug\netcoreapp3.1\RequestApplication.BLL.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\bin\Debug\netcoreapp3.1\RequestApplication.BLL.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\obj\Debug\netcoreapp3.1\RequestApplication.BLL.csprojAssemblyReference.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\obj\Debug\netcoreapp3.1\RequestApplication.BLL.AssemblyInfoInputs.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\obj\Debug\netcoreapp3.1\RequestApplication.BLL.AssemblyInfo.cs
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\obj\Debug\netcoreapp3.1\RequestApplication.BLL.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\obj\Debug\netcoreapp3.1\RequestApplication.BLL.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\bin\Debug\netcoreapp3.1\RequestApplication.DAL.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\bin\Debug\netcoreapp3.1\RequestApplication.Entitiy.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\bin\Debug\netcoreapp3.1\RequestApplication.DAL.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\bin\Debug\netcoreapp3.1\RequestApplication.Entitiy.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.BLL\obj\Debug\netcoreapp3.1\RequestApplication.BLL.csproj.CopyComplete

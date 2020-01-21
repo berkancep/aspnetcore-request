@@ -1,0 +1,8 @@
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\bin\Debug\netcoreapp3.1\RequestApplication.Entitiy.deps.json
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\bin\Debug\netcoreapp3.1\RequestApplication.Entitiy.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\bin\Debug\netcoreapp3.1\RequestApplication.Entitiy.pdb
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\obj\Debug\netcoreapp3.1\RequestApplication.Entitiy.csprojAssemblyReference.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\obj\Debug\netcoreapp3.1\RequestApplication.Entitiy.AssemblyInfoInputs.cache
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\obj\Debug\netcoreapp3.1\RequestApplication.Entitiy.AssemblyInfo.cs
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\obj\Debug\netcoreapp3.1\RequestApplication.Entitiy.dll
+C:\Users\Berkan Çep\Desktop\Folders\Works\Projeler\Tabim_Core\RequestApplication\RequestApplication.Entitiy\obj\Debug\netcoreapp3.1\RequestApplication.Entitiy.pdb
